@@ -1,1 +1,1 @@
-# PRACTICA-1
+# Primera-pc-Teoria
